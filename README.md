@@ -24,3 +24,4 @@ bun run check
 ```
 
 Codex test
+Claude test
